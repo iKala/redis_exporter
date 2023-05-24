@@ -1467,6 +1467,6 @@
     ]
   },
   "timezone": "browser",
-  "title": "Redis Dashboard for Prometheus Redis Exporter 1.x",
+  "title": "Redis",
   "version": 14
 }
